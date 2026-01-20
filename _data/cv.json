@@ -1,68 +1,180 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Rulan Wu",
+    "email": "rulan.wu@tamu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://rulanwu.github.io",
+    "summary": "Ph.D. student in Curriculum and Instruction at Texas A&M University, focusing on heritage language learning, family literacy development, and teacher education.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "College Station",
       "countryCode": "US",
-      "region": ""
+      "region": "TX"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "",
+        "url": ""
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Graduate Assistant",
+      "position": "Graduate Assistant",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Department of Teaching, Learning and Culture, Texas A&M University",
+      "highlights": [
+        "Aggie Teachers Trajectory - research on teacher perspectives toward literacy education",
+        "Asian Americans' Motivation And Career Exploration - research on community language learning programs",
+        "Math Literacy in Teacher Education - comparative analysis of mathematical application problems in US and Chinese textbooks"
+      ]
+    },
+    {
+      "name": "Research Group Member",
+      "position": "Research Group Member (CLIC Group)",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Cross-Linguistic Literacy & Cognition Research Group, Texas A&M University",
+      "highlights": [
+        "Research on heritage language and identity development",
+        "Assistant in managing NSF-funded project 'Navigating Futures with STARTALK'",
+        "Administrative and outreach coordination"
+      ]
+    },
+    {
+      "name": "Chinese Language Instructor",
+      "position": "Chinese Language Instructor",
+      "startDate": "2024-09",
+      "endDate": "",
+      "summary": "Texas A&M Chinese School, College Station, TX",
+      "highlights": [
+        "Teaching Chinese language and culture to K-12 students"
+      ]
+    },
+    {
+      "name": "Chinese Language and Math Instructor",
+      "position": "Chinese Language and Math Instructor",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "QianXing Learning Lab, Hangzhou, China",
+      "highlights": [
+        "Teaching Chinese language and mathematics to international students"
+      ]
+    },
+    {
+      "name": "Administration Staff",
+      "position": "Administration Staff",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Student Affairs Department, Sichuan University, Chengdu, China",
+      "highlights": [
+        "Undergraduate advising and career development"
+      ]
+    },
+    {
+      "name": "Teaching Assistant",
+      "position": "Teaching Assistant",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Sichuan University, Chengdu, China",
+      "highlights": [
+        "After-school tutoring",
+        "Guidance on computer laboratory assignments"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Texas A&M University",
+      "area": "Ph.D. in Curriculum and Instruction (Literacy & Teacher Education)",
+      "studyType": "Ph.D.",
+      "startDate": "2024",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Sichuan University, Chengdu, China",
+      "area": "M.Ed. in TCSOL (Heritage Language Learning and Identity)",
+      "studyType": "M.Ed.",
+      "startDate": "2020",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Sichuan Agricultural University, Chengdu, China",
+      "area": "B.S. in Forestry (Ecological and Environmental Economy)",
+      "studyType": "B.S.",
+      "startDate": "2016",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Language Teaching",
+      "level": "Advanced",
+      "keywords": ["Chinese language instruction", "Heritage language learning", "Language literacy development"]
+    },
+    {
+      "name": "Research",
+      "level": "Advanced",
+      "keywords": ["Literature review", "Qualitative research", "Data analysis", "Coding", "Systematic review"]
+    },
+    {
+      "name": "Academic Writing",
+      "level": "Advanced",
+      "keywords": ["Research papers", "Grant writing", "Academic publication"]
+    },
+    {
+      "name": "Project Management",
+      "level": "Intermediate",
+      "keywords": ["Team coordination", "Administrative support", "Event organization"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese (Mandarin)",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Heritage language learning and identity"
+    },
+    {
+      "name": "Family literacy development"
+    },
+    {
+      "name": "Content literacy instruction"
+    },
+    {
+      "name": "Teacher education"
+    },
+    {
+      "name": "Technology-enhanced language and literacy instruction"
+    }
+  ],
   "references": [],
   "publications": [
     {
@@ -96,31 +208,24 @@
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Comparative analysis of mathematical application problems in US and Chinese textbooks",
+      "event": "AERA 2026 Annual Meeting",
+      "date": "2026-04",
+      "location": "",
+      "description": "Round table discussion on text characteristics of mathematical application problems"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Systematic review of heritage language development",
+      "event": "AAAL 2026 Annual Conference",
+      "date": "2026-03",
+      "location": "",
+      "description": "Heritage language development in immigrant children"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Research presentation on reading and literacy",
+      "event": "Society for the Scientific Study of Reading 2026 Annual Conference",
+      "date": "2026-07",
+      "location": "",
       "description": ""
     }
   ],

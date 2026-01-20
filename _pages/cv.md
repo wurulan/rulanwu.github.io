@@ -11,35 +11,57 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Curriculum and Instruction (Literacy & Teacher Education), Texas A&M University, 2024-present
+* M.Ed. in TCSOL (Heritage Language Learning and Identity), Sichuan University, Chengdu, China, 2020-2023
+* B.S. in Forestry (Ecological and Environmental Economy), Sichuan Agricultural University, Chengdu, China, 2016-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-present: Graduate Assistant
+  * Department of Teaching, Learning and Culture, Texas A&M University
+  * Duties include: Research on teacher perspectives toward literacy education; research on community language learning programs; comparative analysis of mathematical application problems in US and Chinese textbooks
+  * Advisors: Dr. Li-Jen Kuo and Dr. Michelle Kwok
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024-present: Research Group Member (CLIC Group)
+  * Cross-Linguistic Literacy & Cognition Research Group, Texas A&M University
+  * Duties include: Research on heritage language and identity development; managing NSF-funded project "Navigating Futures with STARTALK"; administrative and outreach coordination
+  * Advisors: Dr. Li-Jen Kuo and Dr. Michelle Kwok
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024: Chinese Language Instructor
+  * Texas A&M Chinese School, College Station, TX
+  * Duties include: Teaching Chinese language and culture to K-12 students
+
+* 2024: Chinese Language and Math Instructor
+  * QianXing Learning Lab, Hangzhou, China
+  * Duties include: Teaching Chinese language and mathematics to international students
+
+* 2023: Administration Staff
+  * Student Affairs Department, Sichuan University, Chengdu, China
+  * Duties include: Undergraduate advising and career development
+
+* 2022-2023: Teaching Assistant
+  * Sichuan University, Chengdu, China
+  * Duties include: After-school tutoring; guidance on computer laboratory assignments
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language Teaching
+  * Chinese language instruction
+  * Heritage language learning
+  * Language literacy development
+* Research
+  * Literature review and synthesis
+  * Qualitative research methods
+  * Data analysis and coding
+  * Systematic review methodology
+* Academic Writing
+  * Research paper writing
+  * Grant writing
+  * Academic publication
+* Project Management
+  * Team coordination
+  * Administrative support
+  * Event organization
 
 Publications
 ======
@@ -61,4 +83,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Professional memberships:
+  * American Association of Applied Linguistics
+  * American Educational Research Association
+  * Society for the Scientific Study of Reading
+
+* Research interests:
+  * Heritage language learning and identity development
+  * Family literacy development
+  * Content literacy instruction
+  * Teacher education
+  * Technology-enhanced language and literacy instruction

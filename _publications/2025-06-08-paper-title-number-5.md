@@ -1,13 +1,22 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Family Literacy Practices and Language Development in Immigrant Children: A Meta-Analysis"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-06-08-immigrant-family-literacy
+excerpt: 'Meta-analysis examining the relationship between immigrant family literacy practices and language development.'
+date: 2025-06-08
+venue: 'In preparation'
+authors: 'Wu, R., Han, C., Kwok, M., & Kuo, L.-J.'
+status: 'Under review - Target submission: January 2026'
+citation: 'Wu, R., Han, C., Kwok, M., & Kuo, L.-J. (In preparation). Family literacy practices and language development in immigrant children: A meta-analysis.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This meta-analytic study synthesizes research on the relationships between family literacy practices and language development outcomes in immigrant children. The research addresses gaps in understanding how heritage language exposure and family literacy involvement contribute to multilingual development.
+
+**Research Questions:**
+- How do family literacy practices correlate with language development in immigrant children?
+- What factors moderate these relationships across different immigrant populations?
+- What are the implications for teacher education and literacy instruction?
+
+**Expected Impact:**
+This work will inform evidence-based practices for supporting families and teachers working with immigrant children in multicultural contexts.
